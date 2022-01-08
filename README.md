@@ -13,7 +13,7 @@ and I am happy to connect with people.
 ## About me 
 
 * 😄 Pronouns: He/Him
-* 📫 How to reach me: Email:https://christopher.tupa50@gmail.com or  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-tupa)
+* 📫 How to reach me: Email: https://christopher.tupa50@gmail.com or  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-tupa)
 
 
 
