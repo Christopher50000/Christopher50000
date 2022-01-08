@@ -2,7 +2,7 @@
 
 ##  Summary of what I am doing 
 
-* 🔭 I’m currently working on problem solving skills on [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/c_t197) **
+* 🔭 I’m currently working on problem solving skills on [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/c_t197) 
  
  
 * 🌱 I’m currently learning Python, SQL ,  Data Structures and Algorithms through Sololearn and courses at Texas State University 
