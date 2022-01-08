@@ -32,7 +32,7 @@ and getting familiar with ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg
 * Looking for a possible internship/job in Software Development or Data Analytics 
 
 
-I enjoy learning new things and finding solutions to complex problems. A day never goes by to learn something new and thats why I love to code because there is always something new to learn. My current position as a math tutor allows me to tackle and solve problems in a variety of different ways. In addition, helping others has always been second nature to me and 
+I enjoy learning new things and finding solutions to complex problems. A day never goes by to learn something new and thats why I love to code because there is always something new to learn. My current position as a math tutor allows me to tackle and solve problems in a variety of different ways. In addition, helping others has always been second nature to me and sharing knowledge with others through tutoring gives me great pride and joy. Lastly, to me there is no such thing as a stupid question , because without questions how can we discover new things. 
 
 
 
