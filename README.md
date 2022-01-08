@@ -2,14 +2,18 @@
 
 ## My LinkedIn [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/christopher-tupa)
 
-## 🔭 I’m currently working on problem solving skills on [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/c_t197)
+## 🔭 I’m currently working on problem solving skills on [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/c_t197) and 
+
+## 🌱 I’m currently learning Python, SQL , Data Structures and Algorithms through Sololearn, ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+
+## My LinkedIn [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/christopher-tupa) and I am happy to connect with people. 
 <!--
 **Christopher50000/Christopher50000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: **
 
 # 🔭 I’m currently working on problem solving skills on [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]
-- 🌱 I’m currently learning Python, SQL , Data Structures and Algorithms 
+- 🌱 I’m currently learning Python, SQL , Data Structures and Algorithms through 
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
