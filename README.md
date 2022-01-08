@@ -7,8 +7,7 @@
  
 * 🌱 I’m currently learning Python, SQL ,  Data Structures and Algorithms through Sololearn and courses at Texas State University 
 
-*  My LinkedIn [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-tupa)
-and I am happy to connect with people. 
+
 
 ## About me 
 * 😄 Pronouns: He/Him
@@ -27,6 +26,13 @@ and I am happy to connect with people.
 
 and getting familiar with ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+## I'm currently 
+* An undergraduate at Texas State University(Studying Applied Mathematics with additional courses in Computer Science
+* Working as a Math Tutor at Texas State University 
+* Looking for a possible internship/job in Software Development or Data Analytics 
+
+
+I enjoy learning new things and finding solutions to complex problems. A day never goes by to learn something new and thats why I love to code because there is always something new to learn. My current position as a math tutor allows me to tackle and solve problems in a variety of different ways. In addition, helping others has always been second nature to me and 
 
 
 
