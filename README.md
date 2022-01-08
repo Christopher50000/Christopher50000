@@ -11,9 +11,24 @@
 and I am happy to connect with people. 
 
 ## About me 
-
 * 😄 Pronouns: He/Him
-* 📫 How to reach me: Email: https://christopher.tupa50@gmail.com or  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-tupa)
+
+* 👯 I enjoy working and collaborating with others who are eager to learn new things
+
+* ⚡ Willing to always try my best 
+
+# 📫 How to reach me: 
+* Email: https://christopher.tupa50@gmail.com or  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-tupa)
+
+
+
+# List of software I am familiar with
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+and getting familiar with 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 
 
