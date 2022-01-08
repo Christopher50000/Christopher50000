@@ -24,15 +24,17 @@
 # List of software I am familiar with
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-and getting familiar with ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+and getting familiar with
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## I'm currently 
-* An undergraduate at Texas State University(Studying Applied Mathematics with additional courses in Computer Science
+* An undergraduate at Texas State University ( Studying Applied Mathematics with additional courses in Computer Science)
 * Working as a Math Tutor at Texas State University 
 * Looking for a possible internship/job in Software Development or Data Analytics 
 
 
-I enjoy learning new things and finding solutions to complex problems. A day never goes by to learn something new and thats why I love to code because there is always something new to learn. My current position as a math tutor allows me to tackle and solve problems in a variety of different ways. In addition, helping others has always been second nature to me and sharing knowledge with others through tutoring gives me great pride and joy. Lastly, to me there is no such thing as a stupid question , because without questions how can we discover new things. 
+I enjoy learning new things and finding solutions to complex problems. A day never goes by to learn something new and thats why I love to code because there is always something new to learn. My current position as a math tutor allows me to tackle and solve problems in a variety of different ways. In addition, helping others has always been second nature to me and sharing knowledge with others through tutoring gives me great pride and joy. Lastly, to me there is no such thing as a stupid question ,because without questions how can we discover new things? 
 
 
 
