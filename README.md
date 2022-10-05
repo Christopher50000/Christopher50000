@@ -25,8 +25,7 @@
 
 ## I'm currently 
 * An undergraduate at Texas State University ( Studying Applied Mathematics while minoring in Computer Science)
-* Worked as a Math Tutor at Texas State University 
-* Currently working at Impres Technology Solutions, Inc as a IT System admin 
+* Working at Impres Technology Solutions, Inc as a IT System admin 
 
 
 
