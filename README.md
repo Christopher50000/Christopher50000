@@ -5,7 +5,7 @@
 * 🔭 I’m currently working on problem solving skills on [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/c_t197) 
  
  
-* 🌱 I’m currently learning Python, SQL ,  Data Structures and Algorithms through Sololearn and courses at Texas State University 
+* 🌱 I’m currently learning Python,  Data Structures and Algorithms. HTML , CSS, JavaScript  through Sololearn and courses at Texas State University 
 
 
 
@@ -30,8 +30,9 @@ and getting familiar with
 
 ## I'm currently 
 * An undergraduate at Texas State University ( Studying Applied Mathematics while minoring in Computer Science)
-* Working as a Math Tutor at Texas State University 
-* Looking for a possible internship/job in Software Development, Software Engineering, Data Analytics, or Data Science 
+* Worked as a Math Tutor at Texas State University 
+* Currently working at Impres Technology Solutions, Inc as a IT System admin 
+
 
 
 I enjoy learning new things and finding solutions to complex problems. A day never goes by to learn something new and thats why I love to code because there is always something new to learn. My current position as a math tutor allows me to tackle and solve problems in a variety of different ways. In addition, helping others has always been second nature to me and sharing knowledge with others through tutoring gives me great pride and joy. Lastly, to me there is no such thing as a stupid question, because without questions how can we discover new things? 
